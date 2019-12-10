@@ -1,5 +1,5 @@
 {% set name = "eigenpy" %}
-{% set version = "1.6.11" %}
+{% set version = "1.6.12" %}
 
 package:
   name: {{ name|lower }}
